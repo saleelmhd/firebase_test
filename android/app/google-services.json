@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356187637205",
+    "project_id": "kylasofttest",
+    "storage_bucket": "kylasofttest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356187637205:android:46c1de1abf7645dfcde95c",
+        "android_client_info": {
+          "package_name": "com.example.saleel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKjMXF8doMeofcwM22CpliDARvWD6gCf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
